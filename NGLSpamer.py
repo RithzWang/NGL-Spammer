@@ -42,7 +42,7 @@ def ngl():
             'sec-fetch-site': 'same-origin',
             'sec-fetch-mode': 'cors',
             'sec-fetch-dest': 'empty',
-            'referer': f'https://ngl.link/{nglusername}',
+            'referer': f'https://ngl.link/r.ithwan',
             'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7',
         }
 
