@@ -47,8 +47,8 @@ def ngl():
         }
 
         data = {
-            'username': f'{nglusername}',
-            'question': f'{message}',
+            'username': f'r.ithwan',
+            'question': f'hi, are you taken?',
             'deviceId': '0',
             'gameSlug': '',
             'referrer': '',
